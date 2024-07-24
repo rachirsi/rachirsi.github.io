@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rachirsi.github.io/sitemap
+Sitemap: https://rachirsi.github.io/app/sitemap
+Sitemap: https://rachirsi.github.io/assets/sitemap
+Sitemap: https://rachirsi.github.io/css/sitemap
+Sitemap: https://rachirsi.github.io/includes/sitemap
+Sitemap: https://rachirsi.github.io/item/sitemap
+Sitemap: https://rachirsi.github.io/src/sitemap
